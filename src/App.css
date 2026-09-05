@@ -1,0 +1,9 @@
+.landing-page-container {
+  background-image: url('https://images.unsplash.com/photo-1446071103082-ae3732e7e4e5');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
